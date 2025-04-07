@@ -1,0 +1,19 @@
+Failed to load model: No file or directory found at Eye_Anemia_Resnet50/eye_model_ResNet.keras
+Critical error loading models: No file or directory found at Eye_Anemia_Resnet50/eye_model_ResNet.keras
+2025-04-05 00:09:53,593 INFO: Loading model from models\eye_model_ResNet.keras... [in app.py:48]
+2025-04-05 00:09:53,680 ERROR: Failed to load model eye_model_ResNet.keras: No file or directory found at models\eye_model_ResNet.keras [in app.py:53]
+2025-04-05 00:09:53,680 ERROR: Critical error loading models: No file or directory found at models\eye_model_ResNet.keras [in app.py:60]
+2025-04-05 00:10:48,816 INFO: Loading model from models\Eye_Anemia_Resnet50/eye_model_ResNet.keras... [in app.py:48]
+2025-04-05 00:10:48,851 ERROR: Failed to load model Eye_Anemia_Resnet50/eye_model_ResNet.keras: No file or directory found at models\Eye_Anemia_Resnet50/eye_model_ResNet.keras [in app.py:53]
+2025-04-05 00:10:48,851 ERROR: Critical error loading models: No file or directory found at models\Eye_Anemia_Resnet50/eye_model_ResNet.keras [in app.py:60]
+2025-04-05 00:13:35,120 INFO: Loading model from models\Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras... [in app.py:48]
+2025-04-05 00:13:35,162 ERROR: Failed to load model Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras: No file or directory found at models\Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras [in app.py:53]
+2025-04-05 00:13:35,163 ERROR: Critical error loading models: No file or directory found at models\Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras [in app.py:60]
+2025-04-05 00:16:23,136 INFO: Loading model from models\Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras... [in app.py:48]
+2025-04-05 00:16:23,168 ERROR: Failed to load model Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras: No file or directory found at models\Backend/Eye_Anemia_Resnet50/eye_model_ResNet.keras [in app.py:53]
+2025-04-05 00:17:55,794 INFO: Loading model from models\Eye_Anemia_Resnet50/eye_model_ResNet.keras... [in app.py:48]
+2025-04-05 00:17:55,842 ERROR: Failed to load model Eye_Anemia_Resnet50/eye_model_ResNet.keras: No file or directory found at models\Eye_Anemia_Resnet50/eye_model_ResNet.keras [in app.py:53]
+Failed to load model: No file or directory found at Eye_Anemia_Resnet50/eye_model_ResNet.keras
+Critical error loading models: No file or directory found at Eye_Anemia_Resnet50/eye_model_ResNet.keras
+Failed to load model: No file or directory found at Eye_Anemia_Resnet50/eye_model_ResNet.keras
+Critical error loading models: No file or directory found at Eye_Anemia_Resnet50/eye_model_ResNet.keras
