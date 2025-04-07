@@ -103,17 +103,3 @@ For support or questions:
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details
-```
-
-### Key Highlights:
-1. **Clear Tech Stack Visualization** - Table format for easy reading
-2. **Path Configuration Emphasis** - Highlighted model path requirements
-3. **Dataset Reference** - Direct link to Google Drive dataset
-4. **Safety Notes** - Warnings about running servers separately
-5. **Visual Hierarchy** - Proper section organization with emojis
-6. **Responsive Design** - Mobile-friendly formatting
-
-Would you like me to:
-1. Add a screenshot section?
-2. Include more detailed API documentation?
-3. Add a troubleshooting section for common issues?
