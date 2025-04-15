@@ -3,7 +3,7 @@
  
 *A non-invasive anemia detection system using conjunctiva and nail bed analysis*  
  
-# 🔍 Overview 
+# 🔍 Overview  
 This project provides a web-based solution for detecting anemia through eye and nail images using: 
 - **Deep Learning**: ResNet50 models for image classification
 - **Frontend**: TypeScript, React.js, with modern UI/UX
