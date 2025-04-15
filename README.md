@@ -1,5 +1,5 @@
 
-# Anemia Detection using Deep Learning (ResNet50 + React + Flask)
+# Anemia Detection using Deep Learning (ResNet50 + React + Flask) 
  
 *A non-invasive anemia detection system using conjunctiva and nail bed analysis*  
  
