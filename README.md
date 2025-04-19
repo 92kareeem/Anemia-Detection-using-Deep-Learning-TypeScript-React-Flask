@@ -2,7 +2,7 @@
 # Anemia Detection using Deep Learning (ResNet50 + React + Flask) 
  
 *A non-invasive anemia detection system using conjunctiva and nail bed analysis*  
- 
+   
 # 🔍 Overview   
 This project provides a web-based solution for detecting anemia through eye and nail images using: 
 - **Deep Learning**: ResNet50 models for image classification
